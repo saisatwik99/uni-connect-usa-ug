@@ -44,21 +44,31 @@ const offsets = {
 };
 
 const getCorrectLogoPath = (logoPath) => {
+  // Split the path into parts
   const pathParts = logoPath.split('/');
-  const stateIndex = pathParts.findIndex(part => 
-    part.toLowerCase() === 'logos' || part.toLowerCase() === 'icons'
-  ) + 1;
   
-  if (stateIndex > 0 && stateIndex < pathParts.length) {
-    const stateName = pathParts[stateIndex];
-    const correctStateName = statesWithContent.find(
-      state => state.toUpperCase() === stateName.toUpperCase()
-    );
+  // Find the index of 'logos' or 'icons'
+  const folderIndex = pathParts.findIndex(part => 
+    part.toLowerCase() === 'logos' || part.toLowerCase() === 'icons'
+  );
+  
+  if (folderIndex >= 0) {
+    // Ensure the folder name is lowercase (logos or icons)
+    pathParts[folderIndex] = pathParts[folderIndex].toLowerCase();
     
-    if (correctStateName) {
-      pathParts[stateIndex] = correctStateName;
-      return pathParts.join('/');
+    // Capitalize the state name (if it exists)
+    if (folderIndex + 1 < pathParts.length) {
+      const stateName = pathParts[folderIndex + 1];
+      pathParts[folderIndex + 1] = stateName.charAt(0).toUpperCase() + stateName.slice(1);
+      
+      // Capitalize the logo name (if it exists)
+      if (folderIndex + 2 < pathParts.length) {
+        const logoName = pathParts[folderIndex + 2];
+        pathParts[folderIndex + 2] = logoName.charAt(0).toUpperCase() + logoName.slice(1);
+      }
     }
+    
+    return pathParts.join('/');
   }
   
   return logoPath;
@@ -78,6 +88,16 @@ const MapChart = () => {
     setClickableStates(clickableStateMap);
   }, []);
 
+  
+
+  const openStateModal = (stateId) => {
+    const stateData = allStates.find(state => state.id === stateId);
+    if (stateData && statesWithContent.includes(stateData.name)) {
+      setStateContent(stateData);
+      setStateModalShow(true);
+    }
+  };
+
   const closeStateModal = () => {
     setStateModalShow(false);
     setStateContent({});
@@ -94,13 +114,13 @@ const MapChart = () => {
   const handleStateClick = (geo) => {
     // Only open modal if state has content
     if (clickableStates[geo.id]) {
-      const stateData = allStates.find(s => s.val === geo.id);
-      if (stateData) {
-        setStateContent(stateData);
-        setStateModalShow(true);
+      const stateId = allStates.find(s => s.val === geo.id)?.id;
+      if (stateId) {
+        openStateModal(stateId);
       }
     }
   };
+
 
   return (
     <div className={`map-container ${stateModalShow ? "blurred" : ""}`}>
