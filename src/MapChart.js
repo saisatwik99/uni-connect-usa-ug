@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { geoCentroid } from "d3-geo";
 import "./style.css";
 import {
@@ -10,6 +10,7 @@ import {
   ZoomableGroup,
 } from "react-simple-maps";
 
+import StateModal from "./components/StateModal";
 import allStates from "./data/allstates.json";
 import universities from "./data/universities.json";
 import text from "./data/text.json";
@@ -18,6 +19,17 @@ import logos from "./data/logos.json";
 import icons from "./data/icons.json";
 
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
+
+const statesWithContent = [
+  "Alabama", "Arizona", "Arkansas", "California", "Colorado", 
+  "Connecticut", "Florida", "Georgia", "Illinois", "Indiana", 
+  "Iowa", "Kansas", "Kentucky", "Louisiana", "Maryland", 
+  "Massachusetts", "Michigan", "Minnesota", "Mississippi", 
+  "Missouri", "Nebraska", "New Hampshire", "New Jersey", 
+  "New Mexico", "New York", "North Carolina", "Ohio", 
+  "Oklahoma", "Oregon", "Pennsylvania", "South Carolina", 
+  "Tennessee", "Utah", "Virginia", "Washington"
+];
 
 const offsets = {
   VT: [-10, -90],
@@ -33,6 +45,22 @@ const offsets = {
 
 const MapChart = () => {
   const [hoveredState, setHoveredState] = useState(null);
+  const [stateModalShow, setStateModalShow] = React.useState(false);
+  const [stateContent, setStateContent] = useState({});
+  const [clickableStates, setClickableStates] = useState({});
+
+  useEffect(() => {
+    const clickableStateMap = {};
+    allStates.forEach(state => {
+      clickableStateMap[state.val] = statesWithContent.includes(state.name);
+    });
+    setClickableStates(clickableStateMap);
+  }, []);
+
+  const closeStateModal = () => {
+    setStateModalShow(false);
+    setStateContent({});
+  };
 
   const handleStateHover = (geo) => {
     setHoveredState(geo.id);
@@ -42,8 +70,19 @@ const MapChart = () => {
     setHoveredState(null);
   };
 
+  const handleStateClick = (geo) => {
+    // Only open modal if state has content
+    if (clickableStates[geo.id]) {
+      const stateData = allStates.find(s => s.val === geo.id);
+      if (stateData) {
+        setStateContent(stateData);
+        setStateModalShow(true);
+      }
+    }
+  };
+
   return (
-    <div className={`map-container`}>
+    <div className={`map-container ${stateModalShow ? "blurred" : ""}`}>
       <ComposableMap
         projection="geoAlbersUsa"
         projectionConfig={{
@@ -65,10 +104,12 @@ const MapChart = () => {
                     key={geo.rsmKey}
                     geography={geo}
                     className={`geography ${
-                      geo.id === hoveredState ? "hovered" : ""
+                      geo.id === hoveredState ? (clickableStates[geo.id] ? "hovered" : "hovered-disabled") : ""
                     }`}
                     onMouseEnter={() => handleStateHover(geo)}
                     onMouseLeave={handleStateHoverEnd}
+                    onClick={() => handleStateClick(geo)}
+                    cursor={clickableStates[geo.id] ? "pointer" : "default"}
                   />
                 ))}
                 {geographies.map((geo) => {
@@ -188,6 +229,7 @@ const MapChart = () => {
           ))}
         </ZoomableGroup>
       </ComposableMap>
+      <StateModal show={stateModalShow} onHide={closeStateModal} content={stateContent} />
     </div>
   );
 };

@@ -4,7 +4,7 @@
   align-items: center;
   height: 100vh;
   background-color: #f0f0f0;
-  padding: 1rem 6rem 0rem 0rem;
+  padding: 1rem 0rem 0rem 0rem;
 }
 .elevated-map {
   width: 100%;
@@ -19,6 +19,20 @@
   stroke: #8fc5c5;
   fill: #ffffff;
   transition: transform 0.3s ease, box-shadow 0.3s ease, stroke-width 0.3s ease;
+}
+
+.geography.hovered {
+  fill: #e6f2f2;
+  stroke: #3a8989;
+  stroke-width: 1.5px;
+  cursor: pointer;
+}
+
+.geography.hovered-disabled {
+  fill: #f0f0f0;
+  stroke: #cccccc;
+  stroke-width: 0.5px;
+  cursor: default;
 }
 
 .marker {
