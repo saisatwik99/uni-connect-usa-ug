@@ -1,0 +1,33 @@
+.map-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  padding: 1rem 6rem 0rem 0rem;
+}
+.elevated-map {
+  width: 100%;
+  height: 100%;
+}
+
+.blurred {
+  filter: blur(1px);
+}
+
+.geography {
+  stroke: #8fc5c5;
+  fill: #ffffff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, stroke-width 0.3s ease;
+}
+
+.marker {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3px;
+  fill: #5d5a6d;
+}
+
+.annotation {
+  font-size: 14px;
+  fill: #333;
+}

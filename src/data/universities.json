@@ -1,0 +1,410 @@
+[
+  {
+    "name": "UT-Austin",
+    "link": "/USA/57 - University of Texas at Austin.pdf",
+    "lat": 30.2849231,
+    "lon": -97.7366316
+  },
+  {
+    "name": "Houston Main Campus",
+    "link": "/USA/158 - University of Houston Main Campus.pdf",
+    "lat": 29.7883622,
+    "lon": -95.4353014
+  },
+  {
+    "name": "Texas Tech U",
+    "link": "/USA/163 - Texas Tech University.pdf",
+    "lat": 33.5845566,
+    "lon": -101.8772232
+  },
+  {
+    "name": "Southern Methodist U",
+    "link": "/USA/137-Southern-Methodist-University.pdf",
+    "lat": 32.8412223,
+    "lon": -95.9870924
+  },
+  {
+    "name": "UT-Arlington",
+    "link": "/USA/171 - University of Texas Arlington.pdf",
+    "lat": 32.5105322,
+    "lon": -98.1254382
+  },
+  {
+    "name": "UC-Berkeley",
+    "link": "/USA/25 - University of California, Berkeley.pdf",
+    "lat": 38.0901675,
+    "lon": -121.7697604
+  },
+  {
+    "name": "UC-Davis",
+    "link": "/USA/51 - University of California, Davis.pdf",
+    "lat": 38.6882485,
+    "lon": -121.7720123
+  },
+  {
+    "name": "UC-Irvine",
+    "link": "/USA/59 - University of California, Irvine.pdf",
+    "lat": 33.5905401,
+    "lon": -117.3997119
+  },
+  {
+    "name": "UC-San Diego",
+    "link": "/USA/53 - University of California, San Diego.pdf",
+    "lat": 32.980078,
+    "lon": -116.7443133
+  },
+  {
+    "name": "USC",
+    "link": "/USA/55 - University of Southern California.pdf",
+    "lat": 34.1723693,
+    "lon": -117.5554168
+  },
+  {
+    "name": "UC-Santa Barbara",
+    "link": "/USA/63 - University of California, Santa Barbara.pdf",
+    "lat": 34.5639802,
+    "lon": -119.2592468
+  },
+  {
+    "name": "UC-Riverside",
+    "link": "/USA/125 - University of California, Riverside.pdf",
+    "lat": 33.9937229,
+    "lon": -117.0383642
+  },
+  {
+    "name": "SJSU",
+    "link": "/USA/156 - San Jose State University.pdf",
+    "lat": 37.3364817,
+    "lon": -121.8929101
+  },
+  {
+    "name": "CSU-Long Beach",
+    "link": "/USA/177 - California State University, Long Beach.pdf",
+    "lat": 33.7838409,
+    "lon": -118.1243902
+  },
+  {
+    "name": "Auburn U",
+    "link": "/USA/138 - Auburn University.pdf",
+    "lat": 32.5980549,
+    "lon": -85.4942667
+  },
+  {
+    "name": "Colorado State U-Fort Collins",
+    "link": "/USA/165 - Colorado State University FortCollins.pdf",
+    "lat": 40.5734,
+    "lon": -105.0865
+  },
+  {
+    "name": "U of Colorado Boulder",
+    "link": "/USA/153 - University of Colorado Boulder.pdf",
+    "lat": 40.1077,
+    "lon": -105.2663
+  },
+  {
+    "name": "Arizona State University",
+    "link": "/USA/147 - Arizona State University.pdf",
+    "lat": 33.4196,
+    "lon": -111.934
+  },
+  {
+    "name": "Yale U",
+    "link": "/USA/07 - Yale University.pdf",
+    "lat": 39.6981,
+    "lon": -68.5074
+  },
+  {
+    "name": "U of Connecticut",
+    "link": "/USA/109 - University of Connecticut.pdf",
+    "lat": 39.5481,
+    "lon": -68.4974
+  },
+  {
+    "name": "Purdue U West Lafayette",
+    "link": "/USA/81 - Purdue University, West Lafayette.pdf",
+    "lat": 40.4259,
+    "lon": -86.5081
+  },
+  {
+    "name": "Indiana U Bloomington",
+    "link": "/USA/119 - Indiana University, Bloomington.pdf",
+    "lat": 39.0653,
+    "lon": -86.5264
+  },
+  {
+    "name": "U of South Florida",
+    "link": "/USA/130 - University of South Florida.pdf",
+    "lat": 28.0592986,
+    "lon": -82.1337122
+  },
+  {
+    "name": "U of Central Florida",
+    "link": "/USA/173 - University of Central Florida.pdf",
+    "lat": 28.6024,
+    "lon": -81.2001
+  },
+  {
+    "name": "Florida State University",
+    "link": "/USA/97 - Florida State University.pdf",
+    "lat": 30.4422,
+    "lon": -84.2981
+  },
+  {
+    "name": "UIUC",
+    "link": "/USA/65 - University of Illinois, Urbana-Champaign.pdf",
+    "lat": 40.1018,
+    "lon": -88.227
+  },
+  {
+    "name": "Northwestern U",
+    "link": "/USA/19 - Northwestern University.pdf",
+    "lat": 42.2251,
+    "lon": -87.975
+  },
+  {
+    "name": "UIC",
+    "link": "/USA/131 - University of Illinois, Chicago.pdf",
+    "lat": 41.9261,
+    "lon": -87.6469
+  },
+  {
+    "name": "Iowa State University",
+    "link": "/USA/155 - Iowa State University.pdf",
+    "lat": 41.8264,
+    "lon": -93.6487
+  },
+  {
+    "name": "University of Iowa",
+    "link": "/USA/141 - University of Iowa.pdf",
+    "lat": 41.6611,
+    "lon": -91.5302
+  },
+  {
+    "name": "Kansas State U",
+    "link": "/USA/166 - Kansas State University.pdf",
+    "lat": 39.2887,
+    "lon": -96.5783
+  },
+  {
+    "name": "Louisiana State U",
+    "link": "/USA/159 - Louisisana State University Batonrouge.pdf",
+    "lat": 30.4155,
+    "lon": -91.1795
+  },
+  {
+    "name": "Johns Hopkins U",
+    "link": "/USA/41 - Johns Hopkins University.pdf",
+    "lat": 35.3481,
+    "lon": -68.6574
+  },
+  {
+    "name": "UMass Amherst",
+    "link": "/USA/113 - University of Massachusetts, Amherst.pdf",
+    "lat": 42.3381,
+    "lon": -64.0974
+  },
+  {
+    "name": "MIT",
+    "link": "/USA/03 - Massachusetts Institute of Technology.pdf",
+    "lat": 41.7581,
+    "lon": -64.3974
+  },
+  {
+    "name": "NEU",
+    "link": "/USA/179 - Northeastern University.pdf",
+    "lat": 41.5981,
+    "lon": -64.4674
+  },
+  {
+    "name": "Harvard U",
+    "link": "/USA/09 - Harvard University.pdf",
+    "lat": 41.2781,
+    "lon": -64.5974
+  },
+  {
+    "name": "U of Michigan Ann Arbor",
+    "link": "/USA/37 - University of Michigan, Ann Arbor.pdf",
+    "lat": 42.208,
+    "lon": -83.7382
+  },
+  {
+    "name": "Michigan State U",
+    "link": "/USA/101 - Michigan State University.pdf",
+    "lat": 42.7018,
+    "lon": -84.5822
+  },
+  {
+    "name": "U of Minnesota Twin Cities",
+    "link": "/USA/99 - University of Minnesota, Twin Cities.pdf",
+    "lat": 44.9734,
+    "lon": -93.6344
+  },
+  {
+    "name": "University of Nebraska Omaha",
+    "link": "/USA/169 - University of Nebraska Omaha.pdf",
+    "lat": 41.3078,
+    "lon": -96.9102
+  },
+  {
+    "name": "Princeton U",
+    "link": "/USA/01 - Princeton University.pdf",
+    "lat": 36.2781,
+    "lon": -64.6574
+  },
+  {
+    "name": "Rutgers U",
+    "link": "/USA/71 - Rutgers University, New Brunswick.pdf",
+    "lat": 36.1181,
+    "lon": -64.7074
+  },
+  {
+    "name": "NJIT",
+    "link": "/USA/134 - New Jersey Institute of Technology.pdf",
+    "lat": 35.9781,
+    "lon": -64.8374
+  },
+  {
+    "name": "NCSU",
+    "link": "/USA/103 - North Carolina State University.pdf",
+    "lat": 35.8551,
+    "lon": -78.669
+  },
+  {
+    "name": "UNC - Chapel Hill",
+    "link": "/USA/42 - University of North Carolina at Chapel Hill.pdf",
+    "lat": 36.0949,
+    "lon": -79.0469
+  },
+  {
+    "name": "Columbia U",
+    "link": "/USA/21 - Columbia University.pdf",
+    "lat": 40.8375503,
+    "lon": -74.2810267
+  },
+  {
+    "name": "Cornell U",
+    "link": "/USA/10 - Cornell University.pdf",
+    "lat": 42.4534636,
+    "lon": -76.4919567
+  },
+  {
+    "name": "SUNY Stony Brook",
+    "link": "/USA/98 - SUNY-Stony Brook.pdf",
+    "lat": 40.8906469,
+    "lon": -73.2041371
+  },
+  {
+    "name": "U of Rochester",
+    "link": "/USA/72 - University of Rochester.pdf",
+    "lat": 43.100557,
+    "lon": -77.6285782
+  },
+  {
+    "name": "SUNY Buffalo",
+    "link": "/USA/123 - SUNY-Buffalo.pdf",
+    "lat": 42.8533338,
+    "lon": -78.3077612
+  },
+  {
+    "name": "Syracuse U",
+    "link": "/USA/110 - Syracuse University.pdf",
+    "lat": 42.7886541,
+    "lon": -76.1362671
+  },
+  {
+    "name": "SUNY Binghamton",
+    "link": "/USA/114 - SUNY-Binghamton.pdf",
+    "lat": 42.1494432,
+    "lon": -75.9879425
+  },
+  {
+    "name": "Oregon State University",
+    "link": "/USA/164 - Oregon State University.pdf",
+    "lat": 44.4646,
+    "lon": -123.062
+  },
+  {
+    "name": "Oklahoma State U",
+    "link": "/USA/175 - Oklahoma State University.pdf",
+    "lat": 36.1334,
+    "lon": -97.0719
+  },
+  {
+    "name": "U of Pittsburgh",
+    "link": "/USA/115 - University of Pittsburgh.pdf",
+    "lat": 40.574032,
+    "lon": -79.9031124
+  },
+  {
+    "name": "Drexel University",
+    "link": "/USA/139 - Drexel University.pdf",
+    "lat": 40.0566277,
+    "lon": -75.7083981
+  },
+  {
+    "name": "Lehigh U",
+    "link": "/USA/85 - Lehigh University.pdf",
+    "lat": 40.6048727,
+    "lon": -75.6200936
+  },
+  {
+    "name": "UPen",
+    "link": "/USA/11 - University of Pennsylvania.pdf",
+    "lat": 39.9022229,
+    "lon": -75.6957886
+  },
+  {
+    "name": "Villanova U",
+    "link": "/USA/117 - Villanova University.pdf",
+    "lat": 40.2268967,
+    "lon": -75.3451534
+  },
+  {
+    "name": "Case Western Reserve U",
+    "link": "/USA/93 - Case Western Reserve University.pdf",
+    "lat": 41.3543559,
+    "lon": -81.6268378
+  },
+  {
+    "name": "Ohio State U",
+    "link": "/USA/79 - The Ohio State University.pdf",
+    "lat": 40.0000873,
+    "lon": -83.0089086
+  },
+  {
+    "name": "U of Cincinnati",
+    "link": "/USA/95 - University of Cincinnati.pdf",
+    "lat": 39.2629371,
+    "lon": -84.2034044
+  },
+  {
+    "name": "Clemson U",
+    "link": "/USA/129 - Clemson University.pdf",
+    "lat": 34.6764019,
+    "lon": -82.8428941
+  },
+  {
+    "name": "U of Tennessee Knoxville",
+    "link": "/USA/151 - University of Tennessee, Knoxville.pdf",
+    "lat": 36.2553017,
+    "lon": -88.5557021
+  },
+  {
+    "name": "U of Virginia",
+    "link": "/USA/47 - University of Virginia.pdf",
+    "lat": 38.0335571,
+    "lon": -78.5105521
+  },
+  {
+    "name": "U of Wisconsin Madison",
+    "link": "/USA/67 - University of Wisconsin-Madison.pdf",
+    "lat": 43.0065959,
+    "lon": -89.6150624
+  },
+  {
+    "name": "U of Washington",
+    "link": "/USA/75 - University of Washington.pdf",
+    "lat": 48.2546443,
+    "lon": -121.5100328
+  }
+]

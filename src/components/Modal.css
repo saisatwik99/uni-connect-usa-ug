@@ -1,0 +1,35 @@
+.modal-content {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  font-size: 15px;
+  font-weight: 500;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+}
+
+.modal-header {
+  padding: 10px 20px; 
+}
+
+.modal-title {
+  margin: 0; 
+  font-size: 30px;
+  font-weight: 600;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.modal-footer{
+  margin: 0px 30px -30px 0px;
+  padding: 10px 10px 10px 10px;
+}

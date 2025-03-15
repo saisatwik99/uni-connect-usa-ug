@@ -1,0 +1,554 @@
+[
+  {
+    "name": "AT&T",
+    "logo": "/logos/AT&T.png",
+    "lat": 33.8579406,
+    "lon": -99.385416
+  },
+  {
+    "name": "Dell",
+    "logo": "/logos/dell.png",
+    "lat": 31.4208097,
+    "lon": -103.4612239
+  },
+  {
+    "name": "ExxonMobil",
+    "logo": "/logos/exxonmobil.png",
+    "lat": 28.9587654,
+    "lon": -98.7440507
+  },
+  {
+    "name": "Phillps 66",
+    "logo": "/logos/Phillips.png",
+    "lat": 30.6581628,
+    "lon": -100.285121
+  },
+  {
+    "name": "Oracle",
+    "logo": "/logos/oracle.png",
+    "lat": 31.2587654,
+    "lon": -95.2440507
+  },
+  {
+    "name": "ConocoPhillips",
+    "logo": "/logos/conocophillips.png",
+    "lat": 32.5020242,
+    "lon": -98.4002283
+  },
+  {
+    "name": "CocoCola",
+    "logo": "/logos/cococola.png",
+    "lat": 32.541,
+    "lon": -82.5677
+  },
+  {
+    "name": "Microsoft",
+    "logo": "/logos/microsoft.png",
+    "lat": 47.0079,
+    "lon": -122.9007
+  },
+  {
+    "name": "Adobe",
+    "logo": "/logos/adobe.png",
+    "lat": 41.0734427,
+    "lon": -122.3399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/ingrammicro.png",
+    "lat": 40.0734427,
+    "lon": -123.3399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/google.png",
+    "lat": 37.5734427,
+    "lon": -121.3399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/yahoo.png",
+    "lat": 38.5734427,
+    "lon": -120.8399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/cisco systems.png",
+    "lat": 37.0734427,
+    "lon": -118.8399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/hollywood.png",
+    "lat": 36.7734427,
+    "lon": -121.5399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/csc.png",
+    "lat": 36.2734427,
+    "lon": -119.0399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/intel.png",
+    "lat": 35.2734427,
+    "lon": -120.5399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/hp.png",
+    "lat": 35.0734427,
+    "lon": -116.5399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/oracle.png",
+    "lat": 35.2734427,
+    "lon": -117.9399846
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/sprint.png",
+    "lat": 38.4872,
+    "lon": -100.3301
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/target.png",
+    "lat": 48.5867,
+    "lon": -96.4005
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/3m.png",
+    "lat": 47.9867,
+    "lon": -93.1005
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/bestbuy.png",
+    "lat": 44.5867,
+    "lon": -96.1005
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/walmart.png",
+    "lat": 33.7722,
+    "lon": -92.5719
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/tyson.png",
+    "lat": 35.5722,
+    "lon": -94.2719
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/fedex.png",
+    "lat": 35.7087542,
+    "lon": -88.0400677
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/bankofamerica.png",
+    "lat": 35.5571,
+    "lon": -79.8031
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/libertmutual.png",
+    "lat": 38.1709,
+    "lon": -84.9933
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/pandg.png",
+    "lat": 40.1512,
+    "lon": -82.1288
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/ibm.png",
+    "lat": 44.3981,
+    "lon": -76.0474
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/citi.png",
+    "lat": 43.7581,
+    "lon": -74.2074
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/jpmorgan.png",
+    "lat": 42.6981,
+    "lon": -75.3474
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/comcast.png",
+    "lat": 41.8732,
+    "lon": -76.2867
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/amerisourcebergen.png",
+    "lat": 41.1732,
+    "lon": -79.3867
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/gm.png",
+    "lat": 45.3725,
+    "lon": -84.8555
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/dow.png",
+    "lat": 43.7725,
+    "lon": -85.8555
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/alabama/varcon.png",
+    "lat": 31.9439819,
+    "lon": -87.7108541
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/arizona/carvana.png",
+    "lat": 35.0884,
+    "lon": -113.8740
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/arizona/on semiconductor.png",
+    "lat": 35.7884,
+    "lon": -110.3740
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/arizona/avnet.png",
+    "lat": 32.9884,
+    "lon": -112.8740
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/boston/ge.png",
+    "lat": 42.6381,
+    "lon": -66.5974
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/boston/gillette.png",
+    "lat": 42.4381,
+    "lon": -62.5974
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/boston/liberty mutual.png",
+    "lat": 41.5381,
+    "lon": -62.8974
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/alphabet.png",
+    "lat": 38.157807,
+    "lon": -120.0200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/apple.png",
+    "lat": 35.457807,
+    "lon": -119.2200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/chevron.jpeg",
+    "lat": 39.307807,
+    "lon": -123.4200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/linkdin.png",
+    "lat": 36.457807,
+    "lon": -121.0200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/meta.png",
+    "lat": 35.707807,
+    "lon": -116.8200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/twitter.png",
+    "lat": 33.357807,
+    "lon": -116.0200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/wattsapp.jpeg",
+    "lat": 39.457807,
+    "lon": -121.4200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/california/wells fargo.png",
+    "lat": 41.657807,
+    "lon": -121.4200025
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/colorado/arrow electronics.png",
+    "lat": 38.7339,
+    "lon": -103.4214
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/colorado/dish network.png",
+    "lat": 40.6339,
+    "lon": -103.6214
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/connecticut/cigna.png",
+    "lat": 39.5881,
+    "lon": -67.3974
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/florida/csx.png",
+    "lat":27.4082559,
+    "lon": -81.0807329
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/florida/jabil.jpeg",
+    "lat":27.7582559,
+    "lon": -82.0807329
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/florida/lennar.jpeg",
+    "lat":30.6082559,
+    "lon": -83.2807329
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/florida/mosaic.png",
+    "lat": 31.00082559,
+    "lon": -85.9807329
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/illinois/mc donalds.jpeg",
+    "lat": 38.7017,
+    "lon": -90.0501
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/illinois/mondlez international.png",
+    "lat": 41.5017,
+    "lon": -90.8001
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/illinois/mortola.png",
+    "lat": 41.3017,
+    "lon": -88.7501
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/kansas/Seaboard.png",
+    "lat": 39.3072,
+    "lon": -99.8801
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/kentukky/kfc.jpeg",
+    "lat": 37.4509,
+    "lon": -86.7733
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/minnesota/united health.png",
+    "lat": 47.2867,
+    "lon": -96.1005
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/mississippi/ergon inc.png",
+    "lat": 33.6988,
+    "lon": -89.5848
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/missouri/Centene.png",
+    "lat": 40.5067,
+    "lon": -94.0735
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/missouri/Emerson.png",
+    "lat": 37.4067,
+    "lon": -91.1735
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/missouri/Monsanto.png",
+    "lat": 37.2067,
+    "lon": -94.0735
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/nebraska/Berkshirehathway.png",
+    "lat": 42.5564,
+    "lon": -100.3420
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/nevada/Las Vegas Sands.png",
+    "lat": 41.0638,
+    "lon": -117.4674
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/new york/morgon stanley.png",
+    "lat": 44.3581,
+    "lon": -74.8074
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/new york/pepsico.png",
+    "lat": 42.6581,
+    "lon": -79.0674
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/north carolina/honeywell.png",
+    "lat": 35.1507,
+    "lon": -78.4603
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/ohio/jeep.png",
+    "lat": 39.3612,
+    "lon": -83.5988
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/ohio/kroger.png",
+    "lat": 40.6012,
+    "lon": -81.7988
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/oklahoma/devon energy.png",
+    "lat": 35.7576,
+    "lon": -95.5964
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/oklahoma/oneok.png",
+    "lat": 35.7576,
+    "lon": -99.5964
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/oklahoma/paycom.jpeg",
+    "lat": 34.7576,
+    "lon": -97.6964
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/texas/American Airlines.png",
+    "lat": 32.9579406,
+    "lon": -100.085416
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/texas/Caterpillar.png",
+    "lat": 34.5579406,
+    "lon": -102.085416
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/texas/Mckessan.png",
+    "lat": 31.5579406,
+    "lon": -98.285416
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/texas/Occidental.png",
+    "lat": 33.9579406,
+    "lon": -100.885416
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/texas/Sysco.png",
+    "lat": 30.6579406,
+    "lon": -102.085416
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/texas/Tesla.png",
+    "lat": 32.9579406,
+    "lon": -101.485416
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/virginia/boeing.png",
+    "lat": 38.8907,
+    "lon": -78.7360
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/Washington/amazon.png",
+    "lat": 47.8809,
+    "lon": -124.3348
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/Washington/costco.png",
+    "lat": 46.5809,
+    "lon": -122.3348
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/Washington/paccar Inc.png",
+    "lat": 46.5809,
+    "lon": -118.5348
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/Washington/starbucks.png",
+    "lat": 48.5809,
+    "lon": -120.6348
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/wisconsin/ao smith.png",
+    "lat": 45.31031,
+    "lon": -91.8512
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/wisconsin/harley davidson.png",
+    "lat": 45.51031,
+    "lon": -89.5512
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/wisconsin/northwestern mutual.png",
+    "lat": 46.11031,
+    "lon": -89.9512
+  },
+  {
+    "name": "logo",
+    "logo": "/logos/wisconsin/rockwell automation.png",
+    "lat": 45.61031,
+    "lon": -91.0512
+  }
+]

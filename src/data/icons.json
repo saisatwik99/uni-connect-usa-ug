@@ -1,0 +1,788 @@
+[
+  {
+    "name": "icon1",
+    "logo": "/logos/industrial.png",
+    "lat": 35.5020242,
+    "lon": -102.4002283
+  },
+  {
+    "name": "icon2",
+    "logo": "/logos/petroleum.png",
+    "lat": 33.1020242,
+    "lon": -102.9002283
+  },
+  {
+    "name": "icon3",
+    "logo": "/logos/electrical.png",
+    "lat": 31.6020242,
+    "lon": -101.4002283
+  },
+  {
+    "name": "icon4",
+    "logo": "/logos/computers.png",
+    "lat": 27.5020242,
+    "lon": -98.9002283
+  },
+  {
+    "name": "icon5",
+    "logo": "/logos/pharma.png",
+    "lat": 30.3020242,
+    "lon": -104.1002283
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 29.6020242,
+    "lon": -97.1002283
+  },
+  {
+    "name": "icon",
+    "logo": "/logos/tourism.png",
+    "lat": 29.5436,
+    "lon": -81.8549
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/hospitality.png",
+    "lat": 31.761,
+    "lon": -84.4877
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 34.861,
+    "lon": -84.9877
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/tourism.png",
+    "lat": 34.241,
+    "lon": -83.4677
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 33.2765,
+    "lon": -81.2211
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 34.4765,
+    "lon": -79.9911
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 36.1671,
+    "lon": -81.8431
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/finance.png",
+    "lat": 36.4671,
+    "lon": -77.8431
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 38.3907,
+    "lon": -77.736
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 37.2807,
+    "lon": -81.736
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 41.4307,
+    "lon": -76.736
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 40.6807,
+    "lon": -78.936
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 41.9807,
+    "lon": -77.636
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 42.8481,
+    "lon": -77.9474
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/pharma.png",
+    "lat": 44.9581,
+    "lon": -74.4474
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 39.7612,
+    "lon": -82.9988
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 40.8612,
+    "lon": -84.3988
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 41.2493,
+    "lon": -87.1394
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/telecom.png",
+    "lat": 38.4817,
+    "lon": -89.0501
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/petroleum.png",
+    "lat": 39.2817,
+    "lon": -89.2501
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 40.2817,
+    "lon": -91.0501
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/pharma.png",
+    "lat": 41.7817,
+    "lon": -89.7501
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 44.5731,
+    "lon": -89.0012
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/automotive.png",
+    "lat": 46.1731,
+    "lon": -91.4012
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/paper.png",
+    "lat": 44.1731,
+    "lon": -90.8012
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 45.7408,
+    "lon": -96.2983
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 42.5868,
+    "lon": -92.025
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/hospitality.png",
+    "lat": 42.0868,
+    "lon": -95.625
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 37.69917,
+    "lon": -92.3341
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 40.09917,
+    "lon": -92.7341
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 38.60917,
+    "lon": -94.2341
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 34.0465,
+    "lon": -93.6896
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 34.2465,
+    "lon": -92.2896
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/hospitality.png",
+    "lat": 36.2465,
+    "lon": -92.2896
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 35.5465,
+    "lon": -91.4896
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 31.1515,
+    "lon": -93.3871
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/petroleum.png",
+    "lat": 32.4515,
+    "lon": -93.6871
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/transportation.png",
+    "lat": 32.1515,
+    "lon": -92.3871
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/petroleum.png",
+    "lat": 34.9676,
+    "lon": -95.9164
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 38.5872,
+    "lon": -96.3301
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 39.5872,
+    "lon": -101.3301
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 39.8872,
+    "lon": -98.3301
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 38.4872,
+    "lon": -101.8301
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 37.8872,
+    "lon": -99.3301
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 39.6339,
+    "lon": -107.8214
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/tourism.png",
+    "lat": 39.8339,
+    "lon": -103.8214
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/pharma.png",
+    "lat": 38.0339,
+    "lon": -104.8214
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/petroleum.png",
+    "lat": 37.9339,
+    "lon": -108.0014
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 40.6339,
+    "lon": -108.4214
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 33.4284,
+    "lon": -110.574
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 36.5284,
+    "lon": -112.074
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 33.5284,
+    "lon": -114.274
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 48.4379,
+    "lon": -118.9007
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 46.8379,
+    "lon": -120.7007
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 47.2379,
+    "lon": -118.7007
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/hospitality.png",
+    "lat": 43.015,
+    "lon": -116.7023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/paper.png",
+    "lat": 44.015,
+    "lon": -114.2023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 42.715,
+    "lon": -112.4023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 45.915,
+    "lon": -116.2023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/tourism.png",
+    "lat": 47.615,
+    "lon": -117.0023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/automotive.png",
+    "lat": 31.8439819,
+    "lon": -86.4108541
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 32.7439819,
+    "lon": -88.1108541
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 34.4439819,
+    "lon": -86.5108541
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 43.0521,
+    "lon": -123.0868
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 44.0521,
+    "lon": -119.0868
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/hospitality.png",
+    "lat": 47.3833,
+    "lon": -107.5007
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 47.7253,
+    "lon": -98.7329
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 43.8683,
+    "lon": -100.3509
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 42.0564,
+    "lon": -102.342
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 40.4677,
+    "lon": -110.6388
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 39.0677,
+    "lon": -110.6388
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 38.4677,
+    "lon": -112.2388
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 39.4677,
+    "lon": -113.5388
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/industrial.png",
+    "lat": 41.4677,
+    "lon": -113.7388
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 40.1638,
+    "lon": -115.4674
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 37.7638,
+    "lon": -115.4674
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 38.5638,
+    "lon": -117.8674
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/filmmaking.png",
+    "lat": 41.0698576,
+    "lon": -123.9012535
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 40.0698576,
+    "lon": -121.9012535
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/petroleum.png",
+    "lat": 36.0698576,
+    "lon": -120.3012535
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 36.0698576,
+    "lon": -117.9012535
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 34.0698576,
+    "lon": -116.0012535
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/hospitality.png",
+    "lat": 46.9016,
+    "lon": -69.2712
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/tourism.png",
+    "lat": 45.4016,
+    "lon": -70.4712
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 39.7404,
+    "lon": -80.469
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/aerospace.png",
+    "lat": 38.2404,
+    "lon": -81.869
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/transportation.png",
+    "lat": 38.2009,
+    "lon": -83.9733
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 37.3509,
+    "lon": -85.6733
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 37.5009,
+    "lon": -87.9733
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/icon7.png",
+    "lat": 37.5009,
+    "lon": -83.9733
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 33.8199,
+    "lon": -108.0637
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 33.5199,
+    "lon": -104.8637
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/transportation.png",
+    "lat": 36.0227,
+    "lon": -85.0816
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/chemical.png",
+    "lat": 36.6227,
+    "lon": -85.3816
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 31.8919,
+    "lon": -90.8023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/transportation.png",
+    "lat": 32.0919,
+    "lon": -89.5023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/textiles.png",
+    "lat": 34.3919,
+    "lon": -90.4023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 47.4081,
+    "lon": -73.2974
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 44.9581,
+    "lon": -64.9974
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 39.381,
+    "lon": -63.9874
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 39.1281,
+    "lon": -62.9874
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/tourism.png",
+    "lat": 40.7581,
+    "lon": -70.0974
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/finance.png",
+    "lat": 40.2581,
+    "lon": -67.4974
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 40.1581,
+    "lon": -70.0074
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/tourism.png",
+    "lat": 38.9581,
+    "lon": -72.5074
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/finance.png",
+    "lat": 38.3581,
+    "lon": -70.0074
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mechanical.png",
+    "lat": 36.2581,
+    "lon": -67.7074
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/finance.png",
+    "lat": 37.4081,
+    "lon": -65.7074
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/pharma.png",
+    "lat": 37.1881,
+    "lon": -64.8574
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/electrical.png",
+    "lat": 36.9781,
+    "lon": -64.03
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/computers.png",
+    "lat": 37.4881,
+    "lon": -63.4574
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 45.0521,
+    "lon": -122.0868
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 44.905,
+    "lon": -116.6023
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 37.9677,
+    "lon": -110.5388
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 38.0339,
+    "lon": -106.5214
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 32.0909728,
+    "lon": -97.0740637
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 36.7056,
+    "lon": -99.4584
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 46.8083,
+    "lon": -103.5837
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 44.8083,
+    "lon": -98.5837
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/fabrication.png",
+    "lat": 47.9867,
+    "lon": -94.8005
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/fabrication.png",
+    "lat": 34.9423,
+    "lon": -94.2799
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/fabrication.png",
+    "lat": 34.7015493,
+    "lon": -87.9894238
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/fabrication.png",
+    "lat": 38.6953,
+    "lon": -87.5664
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/mining.png",
+    "lat": 39.0653,
+    "lon": -86.5264
+  },
+  {
+    "name": "icon7",
+    "logo": "/logos/fabrication.png",
+    "lat": 31.7849,
+    "lon": -83.088
+  }
+]

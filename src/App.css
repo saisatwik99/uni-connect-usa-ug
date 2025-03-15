@@ -1,0 +1,39 @@
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  margin: 0;
+  padding: 0rem 0rem;
+}
+
+svg {
+  width: 90%;
+  height: 90%;
+}
+
+.top-right-image {
+  position: absolute;
+  top: 40px; 
+  right: 50px; 
+  width: 200px; 
+  height: auto;
+}
+
+/* Login page styles */
+.login-container {
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.login-form {
+  background-color: white;
+  max-width: 400px;
+  width: 100%;
+}
+
+.login-logo {
+  max-width: 200px;
+  height: auto;
+}

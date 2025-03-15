@@ -1,0 +1,972 @@
+[
+  {
+    "name": "Austin",
+    "lat": 30.4579406,
+    "lon": -98.085416
+  },
+  {
+    "name": "Dallas",
+    "lat": 32.8208097,
+    "lon": -97.0612239
+  },
+  {
+    "name": "Houston",
+    "lat": 29.9373647,
+    "lon": -95.7309654
+  },
+  {
+    "name": "Commerce",
+    "lat": 33.2581628,
+    "lon": -95.985121
+  },
+  {
+    "name": "San Antonio",
+    "lat": 29.3587654,
+    "lon": -98.7440507
+  },
+  {
+    "name": "Arligton",
+    "lat": 32.7020242,
+    "lon": -98.4002283
+  },
+  {
+    "name": "Corpus Christi",
+    "lat": 27.9202387,
+    "lon": -97.6855302
+  },
+  {
+    "name": "Lubbock",
+    "lat": 33.3780215,
+    "lon": -102.0553709
+  },
+  {
+    "name": "Denton",
+    "lat": 33.237769,
+    "lon": -97.3099666
+  },
+  {
+    "name": "College Station",
+    "lat": 30.7909728,
+    "lon": -96.3740637
+  },
+  {
+    "name": "Tyler",
+    "lat": 32.1308081,
+    "lon": -95.4922088
+  },
+  {
+    "name": "El Paso",
+    "lat": 31.611294,
+    "lon": -105.7541897
+  },
+  {
+    "name": "San Francisco",
+    "lat": 37.707807,
+    "lon": -121.9200025
+  },
+  {
+    "name": "Los Angeles",
+    "lat": 34.0698576,
+    "lon": -118.9012535
+  },
+  {
+    "name": "Bay Area",
+    "lat": 38.2734427,
+    "lon": -122.5399846
+  },
+  {
+    "name": "San Diego",
+    "lat": 32.6246976,
+    "lon": -117.0386546
+  },
+  {
+    "name": "Huntsville",
+    "lat": 34.7015493,
+    "lon": -86.9894238
+  },
+  {
+    "name": "Birmingham",
+    "lat": 33.7313732,
+    "lon": -87.1798124
+  },
+  {
+    "name": "Tuscaloosa",
+    "lat": 33.2870205,
+    "lon": -87.7817846
+  },
+  {
+    "name": "Montgomery*",
+    "lat": 32.2039819,
+    "lon": -86.4108541
+  },
+  {
+    "name": "Fort Lauderdale",
+    "lat": 26.2424386,
+    "lon": -80.1373174
+  },
+  {
+    "name": "Miami",
+    "lat": 25.8616798,
+    "lon": -80.1917902
+  },
+  {
+    "name": "Port Saint Lucie",
+    "lat": 27.2730492,
+    "lon": -80.3582266
+  },
+  {
+    "name": "Cape Coral",
+    "lat": 26.5628537,
+    "lon": -81.9495331
+  },
+  {
+    "name": "St. Petersburg",
+    "lat": 27.7676008,
+    "lon": -82.6402915
+  },
+  {
+    "name": "Tampa",
+    "lat": 27.900575,
+    "lon": -82.4571776
+  },
+  {
+    "name": "Orlando",
+    "lat": 28.4083355,
+    "lon": -81.3792365
+  },
+  {
+    "name": "Jacksonville",
+    "lat": 30.3321838,
+    "lon": -81.605651
+  },
+  {
+    "name": "Tallahassee*",
+    "lat": 30.2582559,
+    "lon": -84.2807329
+  },
+  {
+    "name": "Atlanta*",
+    "lat": 33.949,
+    "lon": -84.388
+  },
+  {
+    "name": "Columbus",
+    "lat": 32.461,
+    "lon": -84.5877
+  },
+  {
+    "name": "Athens",
+    "lat": 34.2519,
+    "lon": -83.3576
+  },
+  {
+    "name": "Anderson",
+    "lat": 34.4834,
+    "lon": -82.6501
+  },
+  {
+    "name": "Aiken",
+    "lat": 33.4304,
+    "lon": -81.7207
+  },
+  {
+    "name": "Columbia*",
+    "lat": 34.3507,
+    "lon": -81.0348
+  },
+  {
+    "name": "Charleston",
+    "lat": 32.7765,
+    "lon": -79.9911
+  },
+  {
+    "name": "Charlotte",
+    "lat": 35.2071,
+    "lon": -80.8431
+  },
+  {
+    "name": "Raleigh",
+    "lat": 35.6296,
+    "lon": -78.4782
+  },
+  {
+    "name": "Clayton",
+    "lat": 35.4107,
+    "lon": -78.1603
+  },
+  {
+    "name": "Greensboro",
+    "lat": 36.0326,
+    "lon": -79.7919754
+  },
+  {
+    "name": "Ayden",
+    "lat": 35.5584,
+    "lon": -77.4172
+  },
+  {
+    "name": "Richmond*",
+    "lat": 37.3507,
+    "lon": -77.4360
+  },
+  {
+    "name": "Norfolk",
+    "lat": 36.8008,
+    "lon": -76.8859
+  },
+  {
+    "name": "Virginia Beach",
+    "lat": 36.9029,
+    "lon": -76.4780
+  },
+  {
+    "name": "Pittsburgh",
+    "lat": 40.2006,
+    "lon": -79.9959
+  },
+  {
+    "name": "Harrisburg*",
+    "lat": 40.2732,
+    "lon": -76.9867
+  },
+  {
+    "name": "Philadelphia",
+    "lat": 39.8526,
+    "lon": -76.2952
+  },
+  {
+    "name": "Mount Vernon",
+    "lat": 41.1426,
+    "lon": -73.9371
+  },
+  {
+    "name": "Syracuse",
+    "lat": 42.6281,
+    "lon": -76.1474
+  },
+  {
+    "name": "Buffalo",
+    "lat": 42.6864,
+    "lon": -78.5284
+  },
+  {
+    "name": "Yonkers",
+    "lat": 40.75312,
+    "lon": -73.1888
+  },
+  {
+    "name": "Cleveland",
+    "lat": 41.0793,
+    "lon": -81.9944
+  },
+  {
+    "name": "Akron",
+    "lat": 40.7214,
+    "lon": -81.5190
+  },
+  {
+    "name": "Toledo",
+    "lat": 41.5928,
+    "lon": -83.5379
+  },
+  {
+    "name": "Columbus*",
+    "lat": 39.8012,
+    "lon": -82.8988
+  },
+  {
+    "name": "Dayton",
+    "lat": 39.4689,
+    "lon": -84.1916
+  },
+  {
+    "name": "Cincinnati",
+    "lat": 39.1331,
+    "lon": -84.3120
+  },
+  {
+    "name": "Lansing*",
+    "lat": 42.8325,
+    "lon": -84.5555
+  },
+  {
+    "name": "Flint",
+    "lat": 43.1525,
+    "lon": -83.6875
+  },
+  {
+    "name": "Ann Arbor",
+    "lat": 41.9008,
+    "lon": -83.7430
+  },
+  {
+    "name": "Fort Wayne",
+    "lat": 40.7993,
+    "lon": -85.1394
+  },
+  {
+    "name": "Indianapolis*",
+    "lat": 39.6684,
+    "lon": -86.1581
+  },
+  {
+    "name": "Rockford",
+    "lat": 42.2714,
+    "lon": -89.1939
+  },
+  {
+    "name": "Aurora",
+    "lat": 41.6806,
+    "lon": -88.6201
+  },
+  {
+    "name": "Joliet",
+    "lat": 41.5006,
+    "lon": -88.3201
+  },
+  {
+    "name": "Edwardsville",
+    "lat": 39.0014,
+    "lon": -89.9532
+  },
+  {
+    "name": "Eastern Illinois U",
+    "lat": 39.2751,
+    "lon": -88.2959
+  },
+  {
+    "name": "Springfield*",
+    "lat": 39.6017,
+    "lon": -89.6501
+  },
+  {
+    "name": "Carbondale",
+    "lat": 37.5075,
+    "lon": -89.0168
+  },
+  {
+    "name": "Milwaukee",
+    "lat": 42.9389,
+    "lon": -87.9065
+  },
+  {
+    "name": "Madison",
+    "lat": 43.2031,
+    "lon": -89.8012
+  },
+  {
+    "name": "Duluth",
+    "lat": 46.9867,
+    "lon": -92.1005
+  },
+  {
+    "name": "Saint Paul",
+    "lat": 45.3237,
+    "lon": -93.2200
+  },
+  {
+    "name": "Minneapolis",
+    "lat": 45.1773,
+    "lon": -94.0655
+  },
+  {
+    "name": "Bloomington",
+    "lat": 44.7408,
+    "lon": -93.3983
+  },
+  {
+    "name": "Rochester",
+    "lat": 44.0234,
+    "lon": -92.4630
+  },
+  {
+    "name": "Ames",
+    "lat": 42.1808,
+    "lon": -94.15999
+  },
+  {
+    "name": "Iowa City",
+    "lat": 41.4511,
+    "lon": -91.5302
+  },
+  {
+    "name": "Des Moines",
+    "lat": 41.5868,
+    "lon": -93.6250
+  },
+  {
+    "name": "Columbia",
+    "lat": 39.19917,
+    "lon": -92.3341
+  },
+  {
+    "name": "St. Louis",
+    "lat": 38.3270,
+    "lon": -90.7994
+  },
+  {
+    "name": "Jefferson City*",
+    "lat": 38.7767,
+    "lon": -92.1735
+  },
+  {
+    "name": "Springdale",
+    "lat": 36.2467,
+    "lon": -94.1288
+  },
+  {
+    "name": "Fayetteville",
+    "lat": 35.8322,
+    "lon": -94.0319
+  },
+  {
+    "name": "Jonesboro",
+    "lat": 35.6523,
+    "lon": -90.6799
+  },
+  {
+    "name": "Little Rock*",
+    "lat": 34.4465,
+    "lon": -92.2896
+  },
+  {
+    "name": "Baton Rouge*",
+    "lat": 30.6015,
+    "lon": -91.1871
+  },
+  {
+    "name": "Lafayette",
+    "lat": 30.0741,
+    "lon": -92.0198
+  },
+  {
+    "name": "New Orleans",
+    "lat": 29.8411,
+    "lon": -90.0715
+  },
+  {
+    "name": "Stillwater",
+    "lat": 36.3056,
+    "lon": -97.0584
+  },
+  {
+    "name": "Tulsa",
+    "lat": 36.1040,
+    "lon": -95.9928
+  },
+  {
+    "name": "Oklahoma City*",
+    "lat": 35.1576,
+    "lon": -97.5164
+  },
+  {
+    "name": "Kansas City",
+    "lat": 39.2997,
+    "lon": -95.3786
+  },
+  {
+    "name": "Topeka",
+    "lat": 39.0873,
+    "lon": -95.6752
+  },
+  {
+    "name": "Wichita*",
+    "lat": 37.5072,
+    "lon": -97.3301
+  },
+  {
+    "name": "Pittsburg",
+    "lat": 37.2208,
+    "lon": -94.9050
+  },
+  {
+    "name": "Fort Collins",
+    "lat": 40.8053,
+    "lon": -105.0844
+  },
+  {
+    "name": "Boulder",
+    "lat": 40.2650,
+    "lon": -105.2705
+  },
+  {
+    "name": "Denver",
+    "lat": 39.9392,
+    "lon": -104.9903
+  },
+  {
+    "name": "Colorado Springs",
+    "lat": 38.5339,
+    "lon": -104.8214
+  },
+  {
+    "name": "Phoenix*",
+    "lat": 33.5284,
+    "lon": -112.0740
+  },
+  {
+    "name": "Tucson",
+    "lat": 32.3826,
+    "lon": -110.9747
+  },
+  {
+    "name": "Glendale",
+    "lat": 33.6887,
+    "lon": -112.1860
+  },
+  {
+    "name": "Kent",
+    "lat": 47.2809,
+    "lon": -122.0348
+  },
+  {
+    "name": "Seattle",
+    "lat": 48.0062,
+    "lon": -121.8321
+  },
+  {
+    "name": "Olympia*",
+    "lat": 47.0079,
+    "lon": -122.9007
+  },
+  {
+    "name": "Vancouver",
+    "lat": 45.8587,
+    "lon": -122.2615
+  },
+  {
+    "name": "Everett",
+    "lat": 48.3987,
+    "lon": -121.8021
+  },
+  {
+    "name": "Nampa",
+    "lat": 43.7487,
+    "lon": -116.5599
+  },
+  {
+    "name": "Boise*",
+    "lat": 43.6150,
+    "lon": -116.2023
+  },
+  {
+    "name": "Idaho Falls",
+    "lat": 43.4916,
+    "lon": -112.0331
+  },
+  {
+    "name": "Pocatello",
+    "lat": 42.8713,
+    "lon": -112.4455
+  },
+  {
+    "name": "Eugene",
+    "lat": 44.0521,
+    "lon": -123.0868
+  },
+  {
+    "name": "Salem*",
+    "lat": 44.9429,
+    "lon": -123.0351
+  },
+  {
+    "name": "Portland",
+    "lat": 45.3051,
+    "lon": -122.6750
+  },
+  {
+    "name": "Willamette Valley",
+    "lat": 44.7726,
+    "lon": -123.0351
+  },
+  {
+    "name": "Missoula",
+    "lat": 46.8721,
+    "lon": -113.9940
+  },
+  {
+    "name": "Great Falls",
+    "lat": 47.5048,
+    "lon": -111.3084
+  },
+  {
+    "name": "Helena*",
+    "lat": 46.5898,
+    "lon": -112.0391
+  },
+  {
+    "name": "Butte",
+    "lat": 45.9962,
+    "lon": -112.5345
+  },
+  {
+    "name": "Bozeman",
+    "lat": 45.6770,
+    "lon": -111.0429
+  },
+  {
+    "name": "Billings",
+    "lat": 45.7833,
+    "lon": -108.5007
+  },
+  {
+    "name": "Casper",
+    "lat": 42.8666,
+    "lon": -106.3131
+  },
+  {
+    "name": "Laramie",
+    "lat": 41.3114,
+    "lon": -105.5911
+  },
+  {
+    "name": "Cheyenne*",
+    "lat": 41.1399,
+    "lon": -104.8202
+  },
+  {
+    "name": "Minot",
+    "lat": 48.2325,
+    "lon": -101.2963
+  },
+  {
+    "name": "Bismarck*",
+    "lat": 46.8083,
+    "lon": -100.7837
+  },
+  {
+    "name": "Grand Forks",
+    "lat": 47.9253,
+    "lon": -97.7329
+  },
+  {
+    "name": "Fargo",
+    "lat": 46.8772,
+    "lon": -97.1898
+  },
+  {
+    "name": "Pierre*",
+    "lat": 44.1683,
+    "lon": -100.3509
+  },
+  {
+    "name": "Rapid City",
+    "lat": 44.0805,
+    "lon": -103.2310
+  },
+  {
+    "name": "Sioux Falls",
+    "lat": 43.5446,
+    "lon": -96.9911
+  },
+  {
+    "name": "Grand Island",
+    "lat": 40.9564,
+    "lon": -98.3420
+  },
+  {
+    "name": "Lincoln",
+    "lat": 40.5236,
+    "lon": -96.7026
+  },
+  {
+    "name": "Omaha",
+    "lat": 41.5065,
+    "lon": -96.5045
+  },
+  {
+    "name": "Bellevue",
+    "lat": 41.0844,
+    "lon": -96.3140
+  },
+  {
+    "name": "Layton",
+    "lat": 41.0602,
+    "lon": -111.9710
+  },
+  {
+    "name": "Salt Lake City*",
+    "lat": 40.9008,
+    "lon": -111.8910
+  },
+  {
+    "name": "Taylorsville",
+    "lat": 40.3677,
+    "lon": -111.9388
+  },
+  {
+    "name": "West Valley City",
+    "lat": 40.5284,
+    "lon": -112.0118
+  },
+  {
+    "name": "St. George",
+    "lat": 37.1042,
+    "lon": -113.5845
+  },
+  {
+    "name": "Carson City*",
+    "lat": 39.1638,
+    "lon": -119.4674
+  },
+  {
+    "name": "Reno",
+    "lat": 39.7596,
+    "lon": -119.7138
+  },
+  {
+    "name": "Henderson",
+    "lat": 35.9095,
+    "lon": -114.9817
+  },
+  {
+    "name": "Las Vegas",
+    "lat": 36.3499,
+    "lon": -115.1398
+  },
+  {
+    "name": "Bangor",
+    "lat": 44.8016,
+    "lon": -68.7712
+  },
+  {
+    "name": "Augusta*",
+    "lat": 44.3106,
+    "lon": -69.7808
+  },
+  {
+    "name": "Auburn",
+    "lat": 44.1004,
+    "lon": -70.2148
+  },
+  {
+    "name": "Weston",
+    "lat": 39.0004,
+    "lon": -80.4690
+  },
+  {
+    "name": "Charleston*",
+    "lat": 38.3498,
+    "lon": -81.6326
+  },
+  {
+    "name": "Frankfort*",
+    "lat": 38.2009,
+    "lon": -83.9733
+  },
+  {
+    "name": "Louisville",
+    "lat": 38.1427,
+    "lon": -85.1585
+  },
+  {
+    "name": "Johnson City",
+    "lat": 36.3134,
+    "lon": -82.5535
+  },
+  {
+    "name": "Knoxville",
+    "lat": 35.9606,
+    "lon": -83.9207
+  },
+  {
+    "name": "Nashville*",
+    "lat": 36.4227,
+    "lon": -86.7816
+  },
+  {
+    "name": "Chattanooga",
+    "lat": 35.3056,
+    "lon": -85.3097
+  },
+  {
+    "name": "Jackson",
+    "lat": 35.6145,
+    "lon": -88.8205
+  },
+  {
+    "name": "Memphis",
+    "lat": 35.1895,
+    "lon": -90.0090
+  },
+  {
+    "name": "Greenville",
+    "lat": 33.4101,
+    "lon": -90.6618
+  },
+  {
+    "name": "Meridian",
+    "lat": 32.3643,
+    "lon": -88.7937
+  },
+  {
+    "name": "Jackson*",
+    "lat": 32.2988,
+    "lon": -90.1848
+  },
+  {
+    "name": "Southaven",
+    "lat": 34.7919,
+    "lon": -89.8023
+  },
+  {
+    "name": "Santa Fe*",
+    "lat": 35.6869,
+    "lon": -105.9378
+  },
+  {
+    "name": "Rio Rancho",
+    "lat": 35.2328,
+    "lon": -106.6630
+  },
+  {
+    "name": "Albuquerque",
+    "lat": 35.0044,
+    "lon": -106.6504
+  },
+  {
+    "name": "Las Cruces",
+    "lat": 32.3199,
+    "lon": -106.7637
+  },
+  {
+    "name": "Burlington",
+    "lat": 48.0081,
+    "lon": -72.7974
+  },
+  {
+    "name": "Essex",
+    "lat": 47.8081,
+    "lon": -72.7974
+  },
+  {
+    "name": "Rutland",
+    "lat": 47.6081,
+    "lon": -72.7974
+  },
+  {
+    "name": "Montpelier*",
+    "lat": 47.4081,
+    "lon": -72.7974
+  },
+  {
+    "name": "Albany",
+    "lat": 44.8581,
+    "lon": -63.0974
+  },
+  {
+    "name": "Berlin",
+    "lat": 44.6981,
+    "lon": -63.1974
+  },
+  {
+    "name": "Claremont",
+    "lat": 44.5981,
+    "lon": -63.2974
+  },
+  {
+    "name": "Concord",
+    "lat": 44.4481,
+    "lon": -63.3274
+  },
+  {
+    "name": "Franklin",
+    "lat": 44.2781,
+    "lon": -63.3974
+  },
+  {
+    "name": "Manchester",
+    "lat": 44.1581,
+    "lon": -63.4974
+  },
+  {
+    "name": "Rochester",
+    "lat": 44.0081,
+    "lon": -63.5774
+  },
+  {
+    "name": "Boston",
+    "lat": 42.6381,
+    "lon": -63.9274
+  },
+  {
+    "name": "Worcester",
+    "lat": 42.4781,
+    "lon": -63.9974
+  },
+  {
+    "name": "Providence*",
+    "lat": 39.3081,
+    "lon": -62.8974
+  },
+  {
+    "name": "Warwick",
+    "lat": 39.1281,
+    "lon": -62.9874
+  },
+  {
+    "name": "Bridgeport",
+    "lat": 40.1881,
+    "lon": -68.3974
+  },
+  {
+    "name": "New Haven",
+    "lat": 40.0201,
+    "lon": -68.4274
+  },
+  {
+    "name": "Stamford",
+    "lat": 39.8581,
+    "lon": -68.4974
+  },
+  {
+    "name": "Jersey City",
+    "lat": 37.5981,
+    "lon": -64.1074
+  },
+  {
+    "name": "Trenton",
+    "lat": 37.4481,
+    "lon": -64.2074
+  },
+  {
+    "name": "Camden",
+    "lat": 37.2881,
+    "lon": -64.2674
+  },
+  {
+    "name": "Clifton",
+    "lat": 37.1181,
+    "lon": -64.3074
+  },
+  {
+    "name": "Delaware City",
+    "lat": 38.6081,
+    "lon": -70.8974
+  },
+  {
+    "name": "Newark",
+    "lat": 38.4581,
+    "lon": -70.8974
+  },
+  {
+    "name": "Baltimore",
+    "lat": 36.2781,
+    "lon": -68.3974
+  },
+  {
+    "name": "Annapolis",
+    "lat": 36.1581,
+    "lon": -68.4574
+  },
+  {
+    "name": "Cambridge",
+    "lat": 36.0081,
+    "lon": -68.4974
+  },
+  {
+    "name": "Bethesda",
+    "lat": 35.8681,
+    "lon": -68.5574
+  }
+]
