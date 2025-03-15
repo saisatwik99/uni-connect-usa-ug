@@ -1,5 +1,5 @@
 {
-  "homepage": "http://saisatwik99.github.io/uniconnect-usa-ug",
+  "homepage": "http://saisatwik99.github.io/uni-connect-usa-ug",
   "name": "uniconnect",
   "version": "0.1.0",
   "private": true,
@@ -30,7 +30,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
