@@ -36,6 +36,13 @@ const Login = ({ onLogin }) => {
             alt="Uniconnect Logo"
             className="login-logo mb-3"
             style={{ maxWidth: '250px' }}
+
+
+
+
+
+
+            
           />
           <h4>Login to Uniconnect UG</h4>
         </div>
