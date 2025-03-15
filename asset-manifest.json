@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uni-connect-usa-ug/static/css/main.982c3007.css",
-    "main.js": "/uni-connect-usa-ug/static/js/main.3e39b10c.js",
+    "main.js": "/uni-connect-usa-ug/static/js/main.142c1ee4.js",
     "index.html": "/uni-connect-usa-ug/index.html",
     "main.982c3007.css.map": "/uni-connect-usa-ug/static/css/main.982c3007.css.map",
-    "main.3e39b10c.js.map": "/uni-connect-usa-ug/static/js/main.3e39b10c.js.map"
+    "main.142c1ee4.js.map": "/uni-connect-usa-ug/static/js/main.142c1ee4.js.map"
   },
   "entrypoints": [
     "static/css/main.982c3007.css",
-    "static/js/main.3e39b10c.js"
+    "static/js/main.142c1ee4.js"
   ]
 }
