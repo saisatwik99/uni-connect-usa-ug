@@ -52,7 +52,7 @@ const getCorrectLogoPath = (logoPath) => {
   if (stateIndex > 0 && stateIndex < pathParts.length) {
     const stateName = pathParts[stateIndex];
     const correctStateName = statesWithContent.find(
-      state => state.toLowerCase() === stateName.toLowerCase()
+      state => state.toUpperCase() === stateName.toUpperCase()
     );
     
     if (correctStateName) {
@@ -231,10 +231,7 @@ const MapChart = () => {
           {logos.map((item, index) => (
             <Marker key={index} coordinates={[item.lon, item.lat]}>
               <image
-                href={process.env.PUBLIC_URL + item.logo.replace(/logos\/([^\/]+)/, (match, state) => {
-                  const correctCase = statesWithContent.find(s => s.toLowerCase() === state.toLowerCase());
-                  return correctCase ? `logos/${correctCase}` : match;
-                })}
+                href={process.env.PUBLIC_URL + getCorrectLogoPath(item.logo)}
                 width="15"
                 height="15"
                 className="marker"
@@ -244,10 +241,7 @@ const MapChart = () => {
           {icons.map((item, index) => (
             <Marker key={index} coordinates={[item.lon, item.lat]}>
               <image
-                href={process.env.PUBLIC_URL + item.logo.replace(/icons\/([^\/]+)/, (match, state) => {
-                  const correctCase = statesWithContent.find(s => s.toLowerCase() === state.toLowerCase());
-                  return correctCase ? `icons/${correctCase}` : match;
-                })}
+                href={process.env.PUBLIC_URL + getCorrectLogoPath(item.logo)}
                 width="15"
                 height="15"
                 className="marker"
