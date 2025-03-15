@@ -20,6 +20,7 @@ import icons from "./data/icons.json";
 
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
 
+// List of states that have PDF content
 const statesWithContent = [
   "Alabama", "Arizona", "Arkansas", "California", "Colorado", 
   "Connecticut", "Florida", "Georgia", "Illinois", "Indiana", 
@@ -80,6 +81,7 @@ const MapChart = () => {
   const [stateContent, setStateContent] = useState({});
   const [clickableStates, setClickableStates] = useState({});
 
+  // Initialize clickable states on component mount
   useEffect(() => {
     const clickableStateMap = {};
     allStates.forEach(state => {
@@ -87,8 +89,6 @@ const MapChart = () => {
     });
     setClickableStates(clickableStateMap);
   }, []);
-
-  
 
   const openStateModal = (stateId) => {
     const stateData = allStates.find(state => state.id === stateId);
@@ -120,7 +120,6 @@ const MapChart = () => {
       }
     }
   };
-
 
   return (
     <div className={`map-container ${stateModalShow ? "blurred" : ""}`}>
