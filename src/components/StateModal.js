@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Modal from "react-bootstrap/Modal";
-import Button from "react-bootstrap/Button";
 import "./Modal.css";
 
 const StateModal = ({ show, onHide, content }) => {
