@@ -44,6 +44,37 @@ const offsets = {
   DC: [49, 50],
 };
 
+const getCorrectLogoPath = (logoPath) => {
+  // Split the path into parts
+  const pathParts = logoPath.split('/');
+  
+  // Find the index of 'logos' or 'icons'
+  const folderIndex = pathParts.findIndex(part => 
+    part.toLowerCase() === 'logos' || part.toLowerCase() === 'icons'
+  );
+  
+  if (folderIndex >= 0) {
+    // Ensure the folder name is lowercase (logos or icons)
+    pathParts[folderIndex] = pathParts[folderIndex].toLowerCase();
+    
+    // Capitalize the state name (if it exists)
+    if (folderIndex + 1 < pathParts.length) {
+      const stateName = pathParts[folderIndex + 1];
+      pathParts[folderIndex + 1] = stateName.charAt(0).toUpperCase() + stateName.slice(1);
+      
+      // Capitalize the logo name (if it exists)
+      if (folderIndex + 2 < pathParts.length) {
+        const logoName = pathParts[folderIndex + 2];
+        pathParts[folderIndex + 2] = logoName.charAt(0).toUpperCase() + logoName.slice(1);
+      }
+    }
+    
+    return pathParts.join('/');
+  }
+  
+  return logoPath;
+};
+
 const MapChart = () => {
   const [hoveredState, setHoveredState] = useState(null);
   const [stateModalShow, setStateModalShow] = React.useState(false);
@@ -219,7 +250,7 @@ const MapChart = () => {
           {logos.map((item, index) => (
             <Marker key={index} coordinates={[item.lon, item.lat]}>
               <image
-                href={process.env.PUBLIC_URL + item.logo}
+                href={process.env.PUBLIC_URL + getCorrectLogoPath(item.logo)}
                 width="15"
                 height="15"
                 className="marker"
@@ -229,7 +260,7 @@ const MapChart = () => {
           {icons.map((item, index) => (
             <Marker key={index} coordinates={[item.lon, item.lat]}>
               <image
-                href={process.env.PUBLIC_URL + item.logo}
+                href={process.env.PUBLIC_URL + getCorrectLogoPath(item.logo)}
                 width="15"
                 height="15"
                 className="marker"
